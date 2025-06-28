@@ -18,6 +18,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Booking-Service" />
         <module name="Service-offering" />
+        <module name="payment-service" />
         <module name="saloon" />
         <module name="User-Service" />
       </profile>
@@ -29,6 +30,7 @@
       <module name="Catogety-Service" options="-parameters" />
       <module name="Service-offering" options="-parameters" />
       <module name="User-Service" options="-parameters" />
+      <module name="payment-service" options="-parameters" />
       <module name="saloon" options="-parameters" />
     </option>
   </component>

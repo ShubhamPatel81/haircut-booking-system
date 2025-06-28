@@ -1,9 +1,6 @@
-package com.saloon.dto;
-
-import lombok.*;
+package com.booking.dto;
 
 
-@ToString
 public class UserDTO {
     private Long id;
     private String fullName;
